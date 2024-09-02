@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902215494671",
+    "project_id": "sparkle-674ee",
+    "storage_bucket": "sparkle-674ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902215494671:android:7c97a02fa9f24faa57077a",
+        "android_client_info": {
+          "package_name": "com.example.sparkle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDSki7HdDn3L3wuDJXYdCVLoRTKBgXEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
